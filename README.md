@@ -1,4 +1,6 @@
-# musicui
+# Music UI Concept Flutter
+![WhatsApp Image 2020-05-22 at 17 52 05](https://user-images.githubusercontent.com/61597430/82667528-a99ccc00-9c55-11ea-8e8b-c5c93c8473b5.jpeg)
+
 
 A new Flutter project.
 
